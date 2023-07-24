@@ -1,5 +1,6 @@
- # UAS_PRAKSISOP
+# UAS_PRAKSISOP
 Program Convert USDT, EURO To IDR
+
 # SISTEM OPERASI
 
 | Nama Mata Kuliah  | SISTEM OPERASI |
@@ -11,12 +12,10 @@ Program Convert USDT, EURO To IDR
 | Institusi | fti.unisbablitar.ac.id |
 
 ## Data Diri
-
-|  |  |
 |--|--|
 | NIM | **21104410074** |
 | Nama Lengkap | **Danila Fitria Nikmatus S** |
 | Kelas | TI-4B |
 
-### SCREENSHOOT PROGRAM
+# SCREENSHOOT PROGRAM
 ![Capture](https://github.com/danilafi/UAS_PRAKSISOP/assets/119145783/a2124558-7b99-41d1-966f-9cb7b7927081)
