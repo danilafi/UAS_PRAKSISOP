@@ -16,7 +16,7 @@ Fitur :
 |  |  |
 |--|--|
 | *Fitur* | *Detail* |
-| ini fitur | ini detail |
+| Shell Script | Menggunakan Nano untuk membuat |
 
 
 # SCREENSHOOT PROGRAM
